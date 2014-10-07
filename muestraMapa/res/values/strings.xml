@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">muestraMapa</string>    
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longuitud</string>
+    <string name="miPosicion">Mi Posicion</string>
+    <string name="verMapa">IR</string>
+    <string name="casa">Mi Casa</string>
+    <string-array name="tiposMapas">
+        <item >NORMAL</item>
+        <item >SATELITE</item>
+        <item >HIBRIDO</item>
+    </string-array>
+
+</resources>

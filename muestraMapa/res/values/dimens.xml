@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border">4dp</dimen>
+    <dimen name="boxSize">42dp</dimen>
+    
+</resources>
